@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package multiagent;
-
+//test
 import multiagent.remote.IStrategy;
 import multiagent.remote.IAgent;
 import java.awt.Color;
