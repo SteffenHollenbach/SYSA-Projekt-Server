@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/gui/ServerFrame.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/gui/ConfigurationDlg.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/remote/IMultiAgentServer.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/remote/IPlayer.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/util/AgentUtils.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/MultiAgent.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/remote/IStrategy.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/remote/IAgent.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/AgentImpl.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/Field.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/gui/AgentsPanel.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/network/MultiAgentServer.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/gui/PlayerPanel.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/gui/RenderLife.java</file>
+            <file>file:/C:/Users/Donni/Documents/NetBeansProjects/MultiAgent.Application/src/multiagent/PlayingField.java</file>
+        </group>
+    </open-files>
+</project-private>
